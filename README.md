@@ -1,4 +1,4 @@
-# Somos el grupo _QBiMM_
+# Somos el grupo _QBiMM_ (grupo 16)
 ### Integrado por:
 * Manuel Galvan
 * Baltazar Franz
